@@ -42,7 +42,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Crimson Text', serif;
+  
+font-family: 'Raleway', sans-serif;
   text-transform: uppercase;
   font-weight: 700;
 }
