@@ -5,11 +5,11 @@
 @font-face{
   font-family:montserrat;
 
-  src:url(../font/Montserrat.ttf);
+  src:url(../less/Montserrat.ttf);
 }
 @font-face{
   font-family:bebas;
-  src:url(../font/bebas.ttf);
+  src:url(../less/bebas.ttf);
 }
 /*Adjusts the height and width of the entire page*/
 html, body {
