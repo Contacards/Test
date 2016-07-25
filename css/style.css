@@ -3,9 +3,9 @@
 /*Simply adding a font-family that will be used throughout the site*/
 
 @font-face{
-  font-family:montserrat;
+  font-family:Montserrat-Regular;
 
-  src:url(../less/Montserrat.ttf);
+  src:url(../less/Montserrat-Regular.ttf);
 }
 @font-face{
   font-family:bebas;
