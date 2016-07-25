@@ -17,6 +17,7 @@ html, body {
   height: 100%;
   margin:0 auto;
   font-family: 'montserrat';
+  overflow-x:hidden;
  /*Stops the screen from scrolling to the left and right (basically the x-axis)*/
 }
 body{
