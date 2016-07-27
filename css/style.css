@@ -3,13 +3,13 @@
 /*Simply adding a font-family that will be used throughout the site*/
 
 @font-face{
-  font-family:montserrat;
+  font-family:Montserrat-Regular;
 
-  src:url(../font/Montserrat.ttf);
+  src:url(../less/Montserrat.ttf);
 }
 @font-face{
   font-family:bebas;
-  src:url(../font/bebas.ttf);
+  src:url(../less/BEBAS.ttf);
 }
 /*Adjusts the height and width of the entire page*/
 html, body {
